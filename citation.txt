@@ -1,0 +1,7 @@
+@inproceedings{REPO-027,
+    author = "Lang, Alex H and Vora, Sourabh and Caesar, Holger and Zhou, Lubing and Yang, Jiong and Beijbom, Oscar",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "12697--12705",
+    title = "{Pointpillars: Fast Encoders for Object Detection from Point Clouds}",
+    year = "2019"
+}
